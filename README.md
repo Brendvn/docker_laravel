@@ -19,6 +19,12 @@
 </div>
 
 
+### PHP Vesrion 8.0
+### Mariadb latest
+### Composer latest
+### xdebug Version 3.0.3
+### Laravel latest
+
 # Docker-compose Setup
 
 Please see [Wiki](https://github.com/Brendvn/docker_laravel/wiki/Setup-of-Docker-for-laravel)
