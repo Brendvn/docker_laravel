@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img width="250px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads.sitepoint.com%2Fwp-content%2Fuploads%2F2015%2F04%2F1429543497dockerimg.png&imgrefurl=https%3A%2F%2Fwww.sitepoint.com%2Fhow-to-use-the-official-docker-wordpress-image%2F&tbnid=IOSholtGdZ-unM&vet=12ahUKEwjMtJ7FqYzvAhUCNRoKHWA_CvwQMygIegUIARC0AQ..i&docid=hWOVl-Tp3B0pAM&w=792&h=269&q=docker%20official%20images&ved=2ahUKEwjMtJ7FqYzvAhUCNRoKHWA_CvwQMygIegUIARC0AQ">
+  <img width="250px" src="https://uploads.sitepoint.com/wp-content/uploads/2015/04/1429543497dockerimg.png">
 
 </div>
 
