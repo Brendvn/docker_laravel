@@ -1,10 +1,17 @@
-# Docker for laravel
+# Docker for laravel and Mariadb
+
+<div align="center">
+
+  <img width="250px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuploads.sitepoint.com%2Fwp-content%2Fuploads%2F2015%2F04%2F1429543497dockerimg.png&imgrefurl=https%3A%2F%2Fwww.sitepoint.com%2Fhow-to-use-the-official-docker-wordpress-image%2F&tbnid=IOSholtGdZ-unM&vet=12ahUKEwjMtJ7FqYzvAhUCNRoKHWA_CvwQMygIegUIARC0AQ..i&docid=hWOVl-Tp3B0pAM&w=792&h=269&q=docker%20official%20images&ved=2ahUKEwjMtJ7FqYzvAhUCNRoKHWA_CvwQMygIegUIARC0AQ">
+
+</div>
 
 <br>
 
 <div align="center">
     <a href="https://www.php.net"><img src="https://img.shields.io/badge/language-php-8892BF.svg?style=flat-square" alt="PHP"></a>
     <a href="https://laravel.com"><img src="https://img.shields.io/badge/framework-laravel-f46460.svg?style=flat-square" alt="Laravel"></a>
+    <a href="https://laravel.com"><img src="https://img.shields.io/badge/version-v3.8-blue?style=flat-square" alt="Laravel"></a>
     <a href="https://www.conventionalcommits.org/"><img src="https://img.shields.io/badge/changelog-conventional-FA6477.svg?style=flat-square" alt="Conventional Changelog"></a>
     <a href="https://github.com/conventional-changelog/standard-version"><img src="https://img.shields.io/badge/release-standard%20version-brightgreen.svg?style=flat-square" alt="Standard Version Release"></a>
     <a href="https://getcomposer.org/doc/04-schema.md#license"><img src="https://img.shields.io/badge/license-proprietary-red.svg?style=flat-square" alt="License"></a>
@@ -59,5 +66,5 @@ docker-compose up -d --build server
 We only run the server container due to the depends_on option
 which tells compose to start the php and mysql container
 
-The --build force docker to re-evaluate the dockerfiles
+The --build force docker to re-evaluate the dockerfiles 
 and build them every time
