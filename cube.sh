@@ -77,11 +77,11 @@ if [ "$1" == "composer" ]; then
   if [ "$2" == "new" ]; then
     $COMPOSE  run --rm composer create-project laravel/laravel . || exit 1
     console "🧊 Adding Composer Files!\n" "${COL_CYAN}"
+  fi
+
+  if [ "$2" == "change" ]; then
     chown $USER:$USER $PWD/src || exit 1
-  else
-    $COMPOSE run --rm composer update || exit 1
     console "🧊 Updating Composer Files!\n" "${COL_CYAN}"
-    chown $USER:$USER $PWD/src || exit 1
   fi
 fi
 
