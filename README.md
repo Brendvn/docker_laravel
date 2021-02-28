@@ -14,8 +14,8 @@
     <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/version-v3.8-blue?style=flat-square" alt="Docker"></a>
     <a href="https://mariadb.org/"><img src="https://img.shields.io/badge/database-mariadb-orange?style=flat-square" alt="Docker"></a>
     <a href="https://www.conventionalcommits.org/"><img src="https://img.shields.io/badge/changelog-conventional-FA6477.svg?style=flat-square" alt="Conventional Changelog"></a>
-    <a href="https://github.com/conventional-changelog/standard-version"><img src="https://img.shields.io/badge/release-standard%20version-brightgreen.svg?style=flat-square" alt="Standard Version Release"></a>
-    <a href="https://github.com/conventional-changelog/standard-version"><img src="https://img.shields.io/github/forks/Brendvn/docker_laravel" alt="Forks"></a>
+    <a href=""><img src="https://img.shields.io/badge/release-standard%20version-brightgreen.svg?style=flat-square" alt="Standard Version Release"></a>
+    <a href=""><img src="https://img.shields.io/github/forks/Brendvn/docker_laravel" alt="Forks"></a>
     <a href="https://getcomposer.org/doc/04-schema.md#license"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=flat-square" alt="License"></a>
 </div>
 
