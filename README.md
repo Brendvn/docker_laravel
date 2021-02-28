@@ -19,11 +19,11 @@
 </div>
 
 
-### PHP Vesrion 8.0
-### Mariadb latest
-### Composer latest
+### PHP Version 8.0
+### Mariadb Latest
+### Composer Latest
 ### xdebug Version 3.0.3
-### Laravel latest
+### Laravel Latest
 
 # Docker-compose Setup
 
