@@ -22,7 +22,7 @@
 ### PHP Version 8.0
 ### Mariadb Latest
 ### Composer Latest
-### xdebug Version 3.0.3
+### Xdebug Version 3.0.3
 ### Laravel Latest
 
 # Docker-compose Setup
